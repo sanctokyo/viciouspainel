@@ -9,6 +9,8 @@ Não me responsabilizo pelo mal uso desse software/script!
 · cd viciouspainel <br>
 · python vicious.py
 
+<br>
+
 <strong>Termux:</strong>
 <br>
 · pkg update -y && pkg upgrade -y <br>
