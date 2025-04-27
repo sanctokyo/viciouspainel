@@ -9,7 +9,7 @@ Não me responsabilizo pelo mal uso desse software/script!
 · cd viciouspainel <br>
 · python vicious.py
 
-<br>
+<br> <br>
 
 <strong>Termux:</strong>
 <br>
