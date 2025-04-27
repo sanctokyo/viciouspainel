@@ -17,6 +17,6 @@ Não me responsabilizo pelo mal uso desse software/script!
 · pkg install python <br>
 · pkg install git <br>
 · git clone https://github.com/sanctokyo/viciouspainel <br>
-· pip install requests colorama 
+· pip install requests colorama  <br>
 · cd viciouspainel <br>
 · python vicious.py
